@@ -1,4 +1,4 @@
-#COVID-19 Bulletin System
+# COVID-19 Bulletin System
 
 Overview
 This Java application aims to streamline the consolidation of COVID-19 bulletins from various cities, states, and multiple days into a unified database. The system allows the storage, editing, and removal of daily bulletins, each containing auto-generated ID, city name, state, date, number of new infections, number of new deaths, and the percentage of occupied ICU beds. The application also provides filtering functionalities based on date range and location (state or city).
